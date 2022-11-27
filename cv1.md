@@ -1,10 +1,11 @@
-![ alt text for screen readers](/../desktop/myphoto.jpg )
+![ this is an image](/../desktop/photo1.jpg )
 #  Malek khoder 
-Location: Akkar-Lebanon
-Email: malekkhoder98@gmail.com
-Telephone:+961 70 310 612
-GitHub: github.com/malekkh
-LinkedIn: www.linkedin.com/in/malekkhoder
+>Location: Akkar-Lebanon
+>Email: malekkhoder98@gmail.com
+>Telephone:+961 70 310 612
+>GitHub: github.com/malekkh
+>LinkedIn: www.linkedin.com/in/malekkhoder
+>facebook:www.facebook.com/khMalek
 
 ##  Objectives
 Junior Web Developer specializing in front end development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including HTML5, JavaScript, CSS3; knowledge PHP, MySQL. Strong background in customer relations.
